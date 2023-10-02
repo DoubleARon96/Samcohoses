@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    text-transform: capitalize;
+    color: white;
+    padding: 5px 0px;
+
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    display:inline;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    background-color: aliceblue;
+    padding: 5px 0px;
+    margin: 10px 0px;
+}
+
+h1{
+color: white;
+}
