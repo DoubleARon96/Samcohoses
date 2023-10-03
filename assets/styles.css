@@ -11,19 +11,28 @@ header{
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-/*nav list*/
-nav{ 
-    padding: 5px;
-    margin: 5px 0px;
-text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    font-size: 160%;
+.active{
+
 }
+/*nav toggle*/
+.toggle-nav-label{
+    font-size: 1rem;
+}
+#toggle-nav{
+    display:0;
+}
+#toggle-nav:checked~nav{
+    display: block;
+}
+/*nav list*/
+
 #nav-list{
     list-style: none;
+    align-self: center;
+}
+#nav-list>li{
+    margin-right: 10px;
+    display: inline-block;
 }
 /*main */
 
