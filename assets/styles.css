@@ -30,10 +30,15 @@ text-align: center;
 h1{
 color: white;
 }
+#main-content{
+    width: 100%;
+}
 #hose-in-factory{
     display: inline-block;
+    right: 0px;
     position: static;
     border-radius: 8px;
+    float: right;
 }
 /*footer CSS*/
 footer{
