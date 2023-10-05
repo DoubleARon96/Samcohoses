@@ -1,6 +1,7 @@
 header{
     text-align: center;
         background-color: blue;
+        border-radius: 8px;
         text-transform: capitalize;
     display: flex; 
     color: white;
@@ -11,28 +12,38 @@ header{
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 } 
+/*header*/
+#header{
+    font-size: large;
+    width: 100%;
+    justify-items:center;
+}
+#smaco-logo{
+    height: 30px;
+    width: auto;
+    justify-content: left;
+}
 /*nav list*/
 #nav{
-display:0;
-background-color: white;
-padding: 20px 5px;
-width: 100%;
-height: auto;
-border: 1px solid black;
-color: white;
-
-}
-#nav-list{
-    justify-content: space-between;
-    color: white;
-}
-/*main */
-
-h1{
-color: white;
-}
-#main-content{
     width: 100%;
+    height: fit-content;
+} 
+#nav-list li{
+    list-style: none;
+    display: inline;
+}
+#nav-list a{
+    justify-content: space-evenly;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 8px;
+    padding: 0 10px;
+
+}
+
+/*main */ 
+#main-content{
+width: 100%;
 }
 #hose-in-factory{
     display: inline-block;
