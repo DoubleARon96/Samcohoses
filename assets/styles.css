@@ -1,38 +1,45 @@
-header{
+header {
     text-align: center;
-        background-color: blue;
-        border-radius: 8px;
-        text-transform: capitalize;
-    display: flex; 
+    background-color: blue;
+    border: 2px groove white;
+    border-radius: 8px;
+    text-transform: capitalize;
+    display: flex;
     color: white;
     padding: 5px 0px;
 
 }
+
 /*body settings*/
-body{
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-} 
+}
+
 /*header*/
-#header{
+#header {
     font-size: large;
     width: 100%;
-    justify-items:center;
+    justify-items: center;
 }
-#smaco-logo{
+
+#smaco-logo {
     height: 30px;
     width: auto;
     justify-content: left;
 }
+
 /*nav list*/
-#nav{
+#nav {
     width: 100%;
     height: fit-content;
-} 
-#nav-list li{
+}
+
+#nav-list li {
     list-style: none;
     display: inline;
 }
-#nav-list a{
+
+#nav-list a {
     justify-content: space-evenly;
     border: 2px solid white;
     background-color: white;
@@ -41,27 +48,51 @@ body{
 
 }
 
-/*main */ 
-#main-content{
-width: 100%;
+/*main */
+#main-content {
+    width: 100%;
 }
-#hose-in-factory{
+
+#hose-in-factory {
     display: inline-block;
     right: 0px;
     position: static;
     border-radius: 8px;
     float: right;
 }
+
+#main-gallery {
+    display: block;
+    width: 400px;
+    height: auto;
+    line-height: 1;
+
+}
+
+#gallery-img {
+    columns: 1;
+    height: auto;
+    padding: 5px;
+
+}
+
+.img-page {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
+
 /*footer CSS*/
-footer{
+footer {
     display: static;
     width: 100%;
     height: 30px;
     box-shadow: black top 2px;
 
 }
+
 #social-links {
-text-align: center;
+    text-align: center;
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
@@ -69,7 +100,22 @@ text-align: center;
     font-size: 160%;
 
 }
-footer>p{
+
+footer>p {
     font-size: 70%;
     text-align: center;
+}
+
+@media screen and (min-width: 576px) {
+    #gallery-img {
+        columns: 2;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+    #gallery-img {
+        columns: 3;
+    }
+
 }
