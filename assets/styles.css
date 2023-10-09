@@ -105,6 +105,17 @@ form {
 
 form .checkbox {}
 
+#submit-page{
+    display:inline;
+    text-align: center;
+    
+}
+#submit-page-button{
+    width: 100%;
+    height: auto;
+    align-content: center;
+}
+
 /*footer CSS*/
 footer {
     display: fixed;
