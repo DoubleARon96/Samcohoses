@@ -57,6 +57,10 @@ body {
     color: red;
 }
 
+.active{
+    background-color: red;
+}
+
 /*main */
 #main-content {
     display: inline-block;
