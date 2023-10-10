@@ -58,7 +58,8 @@ body {
 }
 
 .active{
-    background-color: red;
+    color: red;
+    font-weight: bold;
 }
 
 /*main */
