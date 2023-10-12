@@ -1,10 +1,9 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 !{samco logo}(assets/images/samco logo.png)
+# Samco Sports
+[Visit the website here](https://doublearon96.github.io/Samcohoses/index.html)
 
-Welcome
-this is my first project about a compay i work for and and about there produscts they sell.
-i choses to have a main page about the company and what they can do for the customers with links to all their socials. 
-
+## Welcome
 the second page is a resposive gallery so mobile and and computeres both get the best view possible and the third page is a sign up to a news and promotions like most websites.
 
 Problems
