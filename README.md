@@ -100,7 +100,7 @@ i also used Verdan font because it was nice and works well with the site shape a
 5. In the source section, select branch 'main' and save
 6. The page is then given a site URL which you will see above the source section, it will look like the following:
 
-![](docs/screen-picture-of-all-sizes.png)
+![](docs/github-deployment.png)
 
 
 
