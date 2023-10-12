@@ -1,4 +1,4 @@
-!{samco logo}(assets/images/samco logo.png)
+![samco logo](assets/images/samco logo.png)
 
 # Samco Sports
 
@@ -58,7 +58,76 @@ third page will have a sign up form so they can receive new and product infomati
 
 ### Scope
 
-To help achive our compay goals the full deployment will  
+To help achive our compay goals the full deployment it will have:
+
+* Header and menu bar, to navigate all sections 
+* Information on the company and the products produced 
+* Videos of the production
+* sign up page to get in contact with the clients
+* downloadable catalog 
+* links to social media forms 
+* Newsletter sign up form
+
+### surface
+the colour scheme i choose was to match the samco company and keep with there colour scheme 
+
+i also used Verdan font because it was nice and works well with the site shape all the other fonts i tired just didnt feel right 
+
+[](docs/Screenshot-of-verdana-font.png)
+
+### Features
+
+### Nav bar
+
+### About
+
+### Gallery
+
+### Sign up
+
+### Submit Page
+
+### Technologies Used
+
+### Testing
+
+### Deployment
+
+1. Log in to GitHub
+2. In your Repository section, select the project repository that you want to deploy
+3. In the menu located at the top of this section, click 'Settings'
+4. Select 'Pages' on the left-hand menu - this is around halfway down
+5. In the source section, select branch 'main' and save
+6. The page is then given a site URL which you will see above the source section, it will look like the following:
+
+![](docs/screen-picture-of-all-sizes.png)
+
+
+
+Please note it can take a while for this link to become fully active.
+
+*Forking the GitHub Repository*
+
+If you want to make changes to your repository without affecting it, you can make a copy of it by 'Forking' it. This ensures your original repository remains unchanged.
+
+1. Find the correct GitHub repository
+2. In the top right corner of the page, click the Fork button
+3. Your repository has now been 'Forked' and you have a copy to do what you want too.
+
+*Cloning the GitHub Repository*
+
+Cloning your repository will allow you to download a local version of the repository to be worked on. Cloning is a good way to back up your work and have a spare copy 
+
+1. Find the relevant GitHub repository
+2. Press the arrow on the Code button
+3. Copy the link that is shown in the drop-down
+4. Now open Gitpod & select the directory location where you would like the clone created
+5. In the terminal type 'git clone' & then paste the link you copied in GitHub
+6. Press enter and your local clone will be created.
+
+---
+
+## Credits
 
 Problems
 
