@@ -214,10 +214,15 @@ my form and all the socials were the big ones.
  for the logo and the idea
  [Racebikebitz](https://racebikebitzusa.com/)
  I used the intagram images 
+ [Dasiy Gunn](https://github.com/daisygunn/la-petite-traveller/blob/master/README.md)
+ I used Dasiy's Read me to help make my own one 
 #### Direct people
 
 Ciaran merit my friend from school, Harry from the Slack app, Racebike bitz
 
+
 ### Bugs
 
 I tried multiple times to make a checkbox drop-down but just couldn't get it to work so I made the three tabs look good in all screen sizes and make sure they fit all. in the future, i would research more on the dropdown and build a few to help in future projects
+
+## Thank You For Reading 
