@@ -1,10 +1,10 @@
-![samco logo](docs/samco-logo.png)
+![samco logo](docs/Images/samco-logo.png)
 
 # Samco Sports
 
 [Visit the website here](https://doublearon96.github.io/Samcohoses/index.html)
 
-![](docs/screen-picture-of-all-sizes.png)
+![](docs/Images/screen-picture-of-all-sizes.png)
 
 ## Welcome
 
@@ -74,37 +74,37 @@ the colour scheme I choose was to match the Samco company and keep with their co
 
 I also used Verdana font because it was nice and worked well with the site shape all the other fonts I tired just didn't feel right
 
-[](docs/Screenshot-of-verdana-font.png)
+[](docs/Images/Screenshot-of-verdana-font.png)
 
 ### Features
 The web page is fully responsive and desinged for mobile phones and then moved up through the screen sizes. the page is set out into sections to make it easier to read with header then nav bar, then main infomatiom and then footer.
 ### Nav bar
 
-![](docs/navbar-picture.png)
+![](docs/Images/navbar-picture.png)
 
 the nav bar i have made it so it shrinks and grows with the screen size. it also has only three sections at the moment.
 ### About
 
-![](docs/about-page-infomation.png)
+![](docs/Images/about-page-infomation.png)
 
 the main infomation moves with the screen size the bigger screens it moves to the middle to get rid of a big white space.
 on small screens it makes the image float to the right and keeps inline with it.
 
 ### Gallery
 
-![](docs/gallery.png)
+![](docs/Images/gallery.png)
 
 the gallery also adjusts with the screen size and adds coloums depending on the screen sizes and keeps all the pictures form bluring or pixlelating.
 
 ### Sign up
 
-![](docs/form.png)
+![](docs/Images/form.png)
 
 the sign up page is there for customers to sign up for news, it also sends info about vehicles, Car bikes and other so it can filter what they have i have also made it so they do not require to click any so they just get all infomation insted of specsfic infomation.
 
 ### Submit Page
 
-[](docs/submit-page.png)
+[](docs/Images/submit-page.png)
 
 the submit page has a little thank you message and a home button but it also has the nav bar so its down to the user what they press, in the future i would like to add more content to this page.
 
