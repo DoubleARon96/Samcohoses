@@ -80,7 +80,7 @@ I also used Verdana font because it was nice and worked well with the site shape
 The web page is fully responsive and desinged for mobile phones and then moved up through the screen sizes. the page is set out into sections to make it easier to read with header then nav bar, then main infomatiom and then footer.
 ### Nav bar
 
-![](file:///workspaces/Samcohoses/docs/navbar-picture.png)
+![](docs/navbar-picture.png)
 
 the nav bar i have made it so it shrinks and grows with the screen size. it also has only three sections at the moment.
 ### About
