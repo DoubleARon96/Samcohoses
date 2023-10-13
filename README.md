@@ -1,4 +1,4 @@
-![samco logo](assets/images/samco logo.png)
+![samco logo](docs/samco-logo.png)
 
 # Samco Sports
 
@@ -89,6 +89,12 @@ I also used Verdana font because it was nice and worked well with the site shape
 ### Submit Page
 
 ### Technologies Used
+
+W3 learning
+
+Codeing instuide love running Projcet
+
+
 
 ### Testing
 
