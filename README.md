@@ -209,11 +209,11 @@ my form and all the socials were the big ones.
  for checking my work
  [Favicon](https://favicon.io/favicon-generator/)
  for my favicon icon
- [am i responsive](https://ui.dev/amiresponsive?url=https://doublearon96.github.io/Samcohoses/index.html)
+ [Am I Responsive](https://ui.dev/amiresponsive?url=https://doublearon96.github.io/Samcohoses/index.html)
  [Samco](https://samcosport.com/)
  for the logo and the idea
  [Racebikebitz](https://racebikebitzusa.com/)
- i used the intagram images 
+ I used the intagram images 
 #### Direct people
 
 Ciaran merit my friend from school, Harry from the Slack app, Racebike bitz
