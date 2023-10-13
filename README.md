@@ -8,7 +8,7 @@
 
 ## Welcome
 
-This website aims to show and promote a company that sells silicon hoses and works with
+This website aims to show and promote a company that sells silicone hoses and works with
 famous racers in the motorsport world.
 
 This Website has the following pages of content:
@@ -77,22 +77,49 @@ I also used Verdana font because it was nice and worked well with the site shape
 [](docs/Screenshot-of-verdana-font.png)
 
 ### Features
-
+The web page is fully responsive and desinged for mobile phones and then moved up through the screen sizes. the page is set out into sections to make it easier to read with header then nav bar, then main infomatiom and then footer.
 ### Nav bar
 
+![](file:///workspaces/Samcohoses/docs/navbar-picture.png)
+
+the nav bar i have made it so it shrinks and grows with the screen size. it also has only three sections at the moment.
 ### About
+
+![](docs/about-page-infomation.png)
+
+the main infomation moves with the screen size the bigger screens it moves to the middle to get rid of a big white space.
+on small screens it makes the image float to the right and keeps inline with it.
 
 ### Gallery
 
+![](docs/gallery.png)
+
+the gallery also adjusts with the screen size and adds coloums depending on the screen sizes and keeps all the pictures form bluring or pixlelating.
+
 ### Sign up
+
+![](docs/form.png)
+
+the sign up page is there for customers to sign up for news, it also sends info about vehicles, Car bikes and other so it can filter what they have i have also made it so they do not require to click any so they just get all infomation insted of specsfic infomation.
 
 ### Submit Page
 
+[](docs/submit-page.png)
+
+the submit page has a little thank you message and a home button but it also has the nav bar so its down to the user what they press, in the future i would like to add more content to this page.
+
 ### Technologies Used
 
-W3 learning
+* [Html, CSS](https://www.w3schools.com/css/css_positioning.asp)
+W3 learning helped fix my code and give me some ideas like the grid display to using links.
 
-Codeing instuide love running Projcet
+- [footer, HTML, CSS](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum)
+Codeing instuide love running Projcet helped me do the foter i liked the way it looked simple but smooth
+
+[Google Developer Tool ](https://developer.chrome.com/docs/devtools/)
+Google Developer tool i used this to help fix issues with out having to mess around with the main code.
+
+
 
 
 
