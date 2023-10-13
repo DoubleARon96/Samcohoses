@@ -110,14 +110,17 @@ the submit page has a little thank you message and a home button but it also has
 
 ### Technologies Used
 
-* [Html, CSS](https://www.w3schools.com/css/css_positioning.asp)
-W3 learning helped fix my code and give me some ideas like the grid display to using links.
+- [Html, CSS](https://www.w3schools.com/css/css_positioning.asp)
+    - W3 learning helped fix my code and give me some ideas like the grid display to using links.
 
 - [footer, HTML, CSS](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum)
-Codeing instuide love running Projcet helped me do the foter i liked the way it looked simple but smooth
-
+    - Codeing instuide love running Projcet helped me do the foter i liked the way it looked simple but smooth
 [Google Developer Tool ](https://developer.chrome.com/docs/devtools/)
-Google Developer tool i used this to help fix issues with out having to mess around with the main code.
+    - Google Developer tool i used this to help fix issues with out having to mess around with the main code.
+- [Git](https://git-scm.com/)
+  - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+- [Gitpod](https://www.gitpod.io/)
+  - Used as the development environment.
 
 
 
